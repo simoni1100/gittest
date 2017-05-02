@@ -1,0 +1,7 @@
+Java HotSpot(TM) Server VM (25.131-b11) for linux-x86 JRE (1.8.0_131-b11), built on Mar 15 2017 01:26:42 by "java_re" with gcc 4.3.0 20080428 (Red Hat 4.3.0-8)
+Memory: 4k page, physical 2392256k(992716k free), swap 2430972k(2430972k free)
+CommandLine flags: -XX:+DisableExplicitGC -XX:InitialHeapSize=1073741824 -XX:InitiatingHeapOccupancyPercent=35 -XX:+ManagementServer -XX:MaxGCPauseMillis=20 -XX:MaxHeapSize=1073741824 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseG1GC 
+Heap
+ garbage-first heap   total 1048576K, used 49152K [0x66a00000, 0x66b01000, 0xa6a00000)
+  region size 1024K, 49 young (50176K), 0 survivors (0K)
+ Metaspace       used 12013K, capacity 12291K, committed 12312K, reserved 12592K
